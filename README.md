@@ -1,10 +1,12 @@
 # .NET-PDF-Viewer-SDK
 
+With .NET PDF Viewer SDK , the developer can easily add PDF, TIFF viewer and Continuous scroll (like in Adobe Reader) capability to their application. 
+
 # Download
 
 Install Viscomsoft .NET PDF Viewer SDK from http://www.viscomsoft.com/products/net-pdf-viewer-sdk
 
-Highlights
+# Highlights
 
 Load and view PDF document. 
 
